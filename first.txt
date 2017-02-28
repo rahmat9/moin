@@ -6,3 +6,4 @@ ssh key gen test
 ssh key second tim:e
 finally got it
 this is my practise in noon
+using ssh key practise
