@@ -1,5 +1,5 @@
 #!/bin/bash
-a=5
+a=12
 if [ $a -lt 10 ]
 then
 echo "please enter the value greater than 10"
